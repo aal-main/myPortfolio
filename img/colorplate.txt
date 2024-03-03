@@ -1,0 +1,5 @@
+'text': 'rgb(228, 246, 237)',
+'background': 'rgb(4, 11, 8)',
+'primary': 'rgb(152, 219, 220)',
+'secondary': 'rgb(57, 20, 38)',
+'accent': 'rgb(196, 86, 84)',
